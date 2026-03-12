@@ -68,7 +68,7 @@ The SQL queries cover:
 9. Percentage of population vaccinated
 
 ## Files
-- 'covid_data_exploration.sql' — SQL queries for the full analysis
+- 'covid_data_exploration.sql' - SQL queries for the full analysis
 
 ## Key Takeaways
 - Infection rates varied significantly across countries.
